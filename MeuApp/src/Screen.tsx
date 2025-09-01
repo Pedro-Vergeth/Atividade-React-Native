@@ -60,7 +60,7 @@ export default function Screen() {
                 <Text></Text>
             </View>
             <View style={{ backgroundColor: 'white',height: 50,  width: '80%', display: 'flex', flexDirection: 'row',  justifyContent: 'space-around', marginLeft: 40, alignItems: 'center', borderRadius: 10 }}>
-                <Text>Pizza R$ 30</Text>
+                <Text>Pizza R$ 35</Text>
                 <Text>20/01/2020</Text>
                 <Text></Text>
             </View>
